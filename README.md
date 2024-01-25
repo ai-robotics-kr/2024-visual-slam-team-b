@@ -32,8 +32,8 @@
 </br>
 
 ### Source :
-- Week 00 : - [OT](https://drive.google.com/file/d/12GVonTtN2V3nwlWcwI9yH0BO5n3UcWTq/view?usp=sharing)
+- Week 00 : [OT](https://drive.google.com/file/d/12GVonTtN2V3nwlWcwI9yH0BO5n3UcWTq/view?usp=sharing)
 - Week 01 :
-- Week 02 : - [Visual odometry1](https://drive.google.com/file/d/1OxC031YWEPCOOt8kqoZ_XSmpvRusKEoF/view?usp=sharing)
-- Week 03 : - [Optical Flow](https://drive.google.com/file/d/1xBfjDCraVZuvGe7qCUy5yeXJd_vFFb2a/view?usp=sharing), - [Direct Methods](https://drive.google.com/file/d/1VOey1Ba5x4SsYZb8GCrMVO-1E4Kll3GZ/view?usp=sharing)
-- Week 04 : - [Lie Theory]()
+- Week 02 : [Visual odometry1](https://drive.google.com/file/d/1OxC031YWEPCOOt8kqoZ_XSmpvRusKEoF/view?usp=sharing)
+- Week 03 : [Optical Flow](https://drive.google.com/file/d/1xBfjDCraVZuvGe7qCUy5yeXJd_vFFb2a/view?usp=sharing), [Direct Methods](https://drive.google.com/file/d/1VOey1Ba5x4SsYZb8GCrMVO-1E4Kll3GZ/view?usp=sharing)
+- Week 04 : [Lie Theory]()
