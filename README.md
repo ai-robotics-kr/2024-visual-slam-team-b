@@ -34,11 +34,11 @@
 ### Toy Project : 
 |  Team   |                    Reference                    |             Member             |
 | :--: |  :-----------------------------------------------: | :----------------------------: |
-| 00 |      ORB SLAM3     |         Gyuho Lee           |
-| 00 |      DSO      |         Hyejin Hwang           |
-| 00 |      SPTAM     |         Woobin Kim           |
-| 00 |      VINS-Fusion     |         Daesung Park           |
-| 00 | From Scratch based on SLAM Book | Chanwook Yang |
+| A |      ORB SLAM3     |         Gyuho Lee           |
+| B |      DSO      |         Hyejin Hwang           |
+| C |      SPTAM     |         Woobin Kim           |
+| D |      VINS-Fusion     |         Daesung Park           |
+| E | From Scratch based on SLAM Book | Chanwook Yang |
 </br>
 
 ### Source :
