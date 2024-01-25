@@ -8,7 +8,7 @@
 #### Study Lead : 
  - Hyunwoo Park @Phw9 
 #### Study SubLead :
- - Gyuho Lee @ , Woobin Kim @ , Hyejin Hwang @ , Daesung Park @
+ - Gyuho Lee @ , Woobin Kim @ , Hyejin Hwang @ , Daesung Park @ , Chanwook Yang @
 
 #### Study Contributors :
  - 
@@ -38,7 +38,7 @@
 | 00 |      DSO      |         Hyejin Hwang           |
 | 00 |      SPTAM     |         Woobin Kim           |
 | 00 |      VINS-Fusion     |         Daesung Park           |
-
+| 00 | From Scratch based on SLAM Book | Chanwook Yang |
 </br>
 
 ### Source :
