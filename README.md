@@ -7,7 +7,7 @@
 ### Members
 #### Study Lead : 
  - Hyunwoo Park @Phw9 
-#### SubLead :
+#### Study SubLead :
  - Gyuho Lee @ , Woobin Kim @ , Hyejin Hwang @ , Daesung Park @
 
 #### Study Contributors :
@@ -28,6 +28,16 @@
 | 07 | 2024.02.23 |                                                   |                                |
 | 08 | 2024.03.01 |                                                   |                                |
 | 09 | 2024.03.01 |                                                   |                                |
+
+</br>
+
+### Toy Project : 
+|  Team   |                    Reference                    |             Member             |
+| :--: |  :-----------------------------------------------: | :----------------------------: |
+| 00 |      ORB SLAM3     |         Gyuho Lee           |
+| 00 |      DSO      |         Hyejin Hwang           |
+| 00 |      SPTAM     |         Woobin Kim           |
+| 00 |      VINS-Fusion     |         Daesung Park           |
 
 </br>
 
