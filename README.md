@@ -23,7 +23,7 @@
 | 02 | 2024.01.17 |       Visual Odometry1          |         Gyuho Lee, Daesung Park, Yonghun Kim         |
 | 03 | 2024.01.24 |       Visual Odometry2          |       Woobin Kim, Hyunwoo Park      |
 | 04 | 2024.02.02 |      Lie Theory                 |        Donghyun Kim, Chanwook Yang     |
-| 05 | 2024.02.09 |      Nonlinear Optimization     |     Minsu Jang, YeongWoong Jeon       |
+| 05 | 2024.02.09 |      Nonlinear Optimization     |     YeongWoong Jeon       |
 | 06 | 2024.02.16 |                                                   |                                |
 | 07 | 2024.02.23 |                                                   |                                |
 | 08 | 2024.03.01 |                                                   |                                |
