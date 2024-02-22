@@ -24,7 +24,7 @@
 | 03 | 2024.01.24 |       Visual Odometry2          |     Woobin Kim, Hyunwoo Park        |
 | 04 | 2024.01.31 |      Lie Theory                 |     Donghyun Kim, Chanwook Yang     |
 | 05 | 2024.02.07 |      Nonlinear Optimization     |            Yeongwoong Jeon          |
-| 06 | 2024.02.21 |      Backend Optimization 1     |     Taehoon Ryu, Eunji Cho          |
+| 06 | 2024.02.21 |      Backend Optimization 1     |     Taehun Ryu, Eunji Cho          |
 | 07 | 2024.02.28 |      Backend Optimization 2     |     Hyejin Hwang, Hayeon Kim        |
 | 08 | 2024.03.06 |      Loop Closure               |                        |
 | 09 | 2024.03.13 |      Dense Reconstruction       |      Hongsun Choi, Yunho Ahn        |
@@ -38,7 +38,7 @@
 | B |      DSO      |         Hyejin Hwang, Jongmin Park           |
 | C |      SPTAM     |         Woobin Kim           |
 | D |      VINS-Fusion     |    Daesung Park, Hayeon Kim, Yunho Ahn     |
-| E | From Scratch based on SLAM Book | Chanwook Yang, Taehoon Ryu, Hongsun Choi, Sechan Oh |
+| E | From Scratch based on SLAM Book | Chanwook Yang, Taehun Ryu, Hongsun Choi, Sechan Oh |
 </br>
 
 ### Source :
