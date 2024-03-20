@@ -50,6 +50,6 @@
 - Week 05 : [Nonlinear Optimization](https://drive.google.com/file/d/10UKx6MsThO69Y_d19tFjR5eXkXbjakuY/view?usp=sharing)
 - Week 06 : [Backend Optimization 1-1](https://drive.google.com/file/d/1Vr-8r9axops7XkoSO5Glae1reyIt_KpU/view?usp=sharing), [Backend Optimization 1-2](https://drive.google.com/file/d/1pq5rjnnKmpgjhusGeazMEGJ374G-GNIh/view?usp=sharing)
 - Week 07 : [Backend Optimization 2-1](https://drive.google.com/file/d/1p3YkcTJR9YG6zlY_IGtvcmtFaXEj3iix/view?usp=sharing), [Backend Optimization 2-2](https://drive.google.com/file/d/1NZQu-4Qw0mHjEEF_mlzqh0JuZ12UHAcf/view?usp=sharing)
-- Week 08 : [Loop Closure]()
+- Week 08 : [Loop Closure](https://drive.google.com/file/d/1nMSLN3fblaOzJ4W6DL_q9L2JG3OM9qb7/view?usp=sharing)
 - Week 09 : [Dense Reconstruction 1](), [Dense Reconstruction 2]()
   
