@@ -11,7 +11,7 @@
  - Gyuho Lee @ , Woobin Kim @ , Hyejin Hwang @ , Daesung Park @ , Chanwook Yang @
 
 #### Study Contributors :
- - 
+ - Yonghun Kim @ , Donghyun Kim @ , Yeongwoong Jeon @ , Taehoon Ryu @ , Eunji Cho @ , Hayeon Kim @ , Hongsun Choi @ , Yunho Ahn @ 
 
 </br>
 
@@ -27,7 +27,7 @@
 | 06 | 2024.02.21 |      Backend Optimization 1     |     Taehoon Ryu, Eunji Cho          |
 | 07 | 2024.02.28 |      Backend Optimization 2     |     Hyejin Hwang, Hayeon Kim        |
 | 08 | 2024.03.06 |      Loop Closure               |       Hyunwoo Park         |
-| 09 | 2024.03.13 |      Dense Reconstruction       |      Hongsun Choi, Yunho Ahn        |
+| 09 | 2024.03.13 |      Dense Reconstruction       |     Yunho Ahn, Hongsun Choi        |
 
 </br>
 
